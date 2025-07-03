@@ -15,10 +15,11 @@ This project explores and analyzes Airbnb listing data from **Geneva, Switzerlan
 - ✅ Removed redundant and null-heavy columns
 - ✅ Exported cleaned dataset for further analysis
 
-### 2. Data Visualization (Next)
-- 📈 Univariate and bivariate visualizations
-- 📍 Price trends by room type, location, and superhost status
-- 🔥 Correlation heatmaps for numeric features
+## 📊 Phase 2: Data Visualization
+- Univariate, Bivariate, and Multivariate analyses performed using seaborn and matplotlib.
+- Outlier analysis on price
+- Visual insights from room type, superhost status, neighbourhoods, etc.
+- Correlation matrix and pairplot of top numerical features.
 
 ### 3. Modeling (Upcoming)
 - 🔢 Feature engineering
