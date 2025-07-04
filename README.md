@@ -21,7 +21,7 @@ This project explores and analyzes Airbnb listing data from **Geneva, Switzerlan
 - Visual insights from room type, superhost status, neighbourhoods, etc.
 - Correlation matrix and pairplot of top numerical features.
 
-### 3. Modeling (Upcoming)
+### 3. Modeling 
 - 🔢 Feature engineering
 - 🧠 Machine learning model for price prediction
 - 📊 Model performance evaluation
@@ -60,13 +60,6 @@ Filtered and cleaned for price analysis
 
 ---
 
-## 🚀 Next Steps
-
-- Add visualizations to understand patterns in price
-- Engineer new features like `price_per_person`, `num_amenities`
-- Train regression models (Linear, RandomForest, XGBoost)
-
----
 
 ## 🤝 Let's Connect
 
